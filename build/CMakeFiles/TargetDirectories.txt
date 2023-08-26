@@ -1,0 +1,3 @@
+/home/hulong/vscode/server_libevent/build/CMakeFiles/server.dir
+/home/hulong/vscode/server_libevent/build/CMakeFiles/edit_cache.dir
+/home/hulong/vscode/server_libevent/build/CMakeFiles/rebuild_cache.dir
