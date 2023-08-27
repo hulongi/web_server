@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/server.dir/src/func.cpp.o CMakeFiles/server.dir/src/server.cpp.o -o /home/hulong/vscode/server_libevent/server   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -Wl,-Bstatic -levent -Wl,-Bdynamic 
+/usr/bin/g++ CMakeFiles/server.dir/src/func.cpp.o CMakeFiles/server.dir/src/server.cpp.o -o /home/hulong/vscode/server_libevent/server   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -Wl,-Bstatic -levent -Wl,-Bdynamic 
