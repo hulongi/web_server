@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/hulong/vscode/override_server/build",
+  "command": "/usr/bin/g++  -I/home/hulong/vscode/override_server/include -g -std=gnu++11 -o CMakeFiles/server.dir/src/epoll_server.cpp.o -c /home/hulong/vscode/override_server/src/epoll_server.cpp",
+  "file": "/home/hulong/vscode/override_server/src/epoll_server.cpp",
+  "output": "CMakeFiles/server.dir/src/epoll_server.cpp.o"
+},
+{
+  "directory": "/home/hulong/vscode/override_server/build",
+  "command": "/usr/bin/g++  -I/home/hulong/vscode/override_server/include -g -std=gnu++11 -o CMakeFiles/server.dir/src/httpresponse.cpp.o -c /home/hulong/vscode/override_server/src/httpresponse.cpp",
+  "file": "/home/hulong/vscode/override_server/src/httpresponse.cpp",
+  "output": "CMakeFiles/server.dir/src/httpresponse.cpp.o"
+},
+{
+  "directory": "/home/hulong/vscode/override_server/build",
+  "command": "/usr/bin/g++  -I/home/hulong/vscode/override_server/include -g -std=gnu++11 -o CMakeFiles/server.dir/src/server.cpp.o -c /home/hulong/vscode/override_server/src/server.cpp",
+  "file": "/home/hulong/vscode/override_server/src/server.cpp",
+  "output": "CMakeFiles/server.dir/src/server.cpp.o"
+},
+{
+  "directory": "/home/hulong/vscode/override_server/build",
+  "command": "/usr/bin/g++  -I/home/hulong/vscode/override_server/include -g -std=gnu++11 -o CMakeFiles/server.dir/src/main.cpp.o -c /home/hulong/vscode/override_server/src/main.cpp",
+  "file": "/home/hulong/vscode/override_server/src/main.cpp",
+  "output": "CMakeFiles/server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/hulong/vscode/override_server/build",
+  "command": "/usr/bin/g++  -I/home/hulong/vscode/override_server/include -g -std=gnu++11 -o CMakeFiles/server.dir/src/log.cpp.o -c /home/hulong/vscode/override_server/src/log.cpp",
+  "file": "/home/hulong/vscode/override_server/src/log.cpp",
+  "output": "CMakeFiles/server.dir/src/log.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/server.dir/src/epoll_server.cpp.o CMakeFiles/server.dir/src/httpresponse.cpp.o CMakeFiles/server.dir/src/server.cpp.o CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/log.cpp.o -o server

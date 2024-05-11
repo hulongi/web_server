@@ -1,0 +1,3 @@
+/home/hulong/vscode/override_server/build/CMakeFiles/server.dir
+/home/hulong/vscode/override_server/build/CMakeFiles/edit_cache.dir
+/home/hulong/vscode/override_server/build/CMakeFiles/rebuild_cache.dir
